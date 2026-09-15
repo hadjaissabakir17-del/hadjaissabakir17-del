@@ -1,313 +1,226 @@
-# ♟️ Bakir's Open Chess
+<div align="center">
 
-> **An interactive chess experience built directly into GitHub.**
+# **BAKIR HADJAISSA**
 
-Welcome to **Bakir's Open Chess** — an experimental project that brings the classic game of chess into the world of GitHub.
+### `AI Engineer in Progress · Developer · Creative Builder`
 
-The idea is simple:
+**Building my future, one project at a time.**
 
-**Open the README → see the chess board → choose a move → play. ♟️**
+🇩🇿 Algeria
 
-This project is inspired by the idea of making a GitHub README more than just documentation — turning it into an **interactive experience**.
+<br>
 
-🚧 **Status: Project in progress**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hadjaissabakir17-del)
+[![AI](https://img.shields.io/badge/AI-Learning-6E56CF?style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](#)
 
----
-
-## ♟️ The Idea
-
-What if a GitHub README could become a chess board?
-
-Instead of having a traditional static README, this project aims to create a chess game where players can interact with the board directly through GitHub.
-
-Players will eventually be able to:
-
-* ♟️ View the current chess position
-* 🎯 Choose an available move
-* 🔗 Make a move through GitHub
-* 🤖 Automatically update the game
-* 📜 See the history of previous moves
-* 🏆 Track the players who participated
-* 👥 Invite friends to continue the game
-
-The goal is to make GitHub itself part of the gaming experience.
+</div>
 
 ---
 
-## 🎮 How It Will Work
+## 🧠 About Me
 
-The planned experience will look something like this:
+I'm **Bakir HADJAISSA**, a developer in progress with a strong interest in **Artificial Intelligence, software development, and creative technology**.
+
+I'm focused on learning how things work, building projects from scratch, and turning ideas into something real.
+
+I don't want to simply use technology.
+
+**I want to understand it. Build with it. And eventually create with it.**
+
+---
+
+## 🎯 My Direction
 
 ```text
-┌─────────────────────────────┐
-│                             │
-│       ♜  ♞  ♝  ♛  ♚       │
-│       ♟  ♟  ♟  ♟  ♟       │
-│                             │
-│          ♟ CHESS ♟          │
-│                             │
-│       ♙  ♙  ♙  ♙  ♙       │
-│       ♖  ♘  ♗  ♕  ♔       │
-│                             │
-└─────────────────────────────┘
+Programming
+     ↓
+Software Development
+     ↓
+Artificial Intelligence
+     ↓
+AI Engineering
+     ↓
+Building intelligent products
 ```
 
-The README will contain the current board position and the moves available to the player.
-
-A player selects a move, submits it through GitHub, and an automated system will eventually process the move and update the README.
+My long-term goal is to become an **AI Engineer** capable of designing, developing, and deploying useful intelligent systems.
 
 ---
 
-## ✨ Planned Features
+## ⚡ What I'm Learning
 
-### ♟️ Interactive Chess Board
+### 🤖 Artificial Intelligence
 
-A visual chess board displayed directly inside the GitHub README.
+* Machine Learning
+* AI fundamentals
+* Neural Networks
+* AI application development
+* Problem solving with AI
 
-### 🎯 Legal Moves
+### 💻 Development
 
-Players will be presented with possible moves instead of having to manually enter chess notation.
+* Python
+* JavaScript
+* React
+* Web Development
+* APIs
+* Software Architecture
 
-### 🤖 GitHub Actions
+### 🧠 Computer Science
 
-GitHub Actions will eventually handle the automation behind the game.
+* Algorithms & Data Structures
+* Databases
+* Computer Networks
+* System Analysis
+* System Design
 
-The planned workflow:
+### 🛠️ Developer Tools
+
+* Git
+* GitHub
+* GitHub Actions
+* VS Code
+* Linux
+
+> **Currently learning → experimenting → building.**
+
+---
+
+## 🧪 Experiments & Projects
+
+I'm currently building my experience through small projects, experiments, and ideas.
+
+Some projects will start simple.
+
+Some will fail.
+
+Some will become something bigger.
+
+That's part of the process.
+
+### 🚧 Current Focus
+
+**Turning ideas into working projects.**
+
+More projects will appear here as I build them.
+
+---
+
+## 🗺️ My Roadmap
 
 ```text
-Player
-   ↓
-Selects a move
-   ↓
-GitHub Issue / Action
-   ↓
-Chess engine / Python script
-   ↓
-Validate move
-   ↓
-Update board
-   ↓
-Update README
-   ↓
-Next player's turn ♟️
+         LEARN
+           │
+           ▼
+       EXPERIMENT
+           │
+           ▼
+        BUILD
+           │
+           ▼
+        IMPROVE
+           │
+           ▼
+        DEPLOY
+           │
+           ▼
+      AI ENGINEER
 ```
 
-### 📜 Move History
+### Current Goals
 
-The project will keep track of previous moves and the GitHub users who made them.
-
-Example:
-
-|    Move   | Player   |
-| :-------: | :------- |
-| `E2 → E4` | Player 1 |
-| `E7 → E5` | Player 2 |
-| `G1 → F3` | Player 1 |
-
-### 🏆 Player Statistics
-
-A future version may include statistics such as:
-
-* Total moves
-* Games played
-* Games won
-* Most active players
-* Current game status
-
-### 👥 Play With Friends
-
-The idea is to allow anyone with access to the repository to participate in the game.
-
-You could simply share the GitHub repository and say:
-
-> **Your move. ♟️**
+* [x] Start learning programming
+* [x] Explore Artificial Intelligence
+* [x] Learn Git & GitHub
+* [ ] Strengthen Python
+* [ ] Build real-world projects
+* [ ] Learn Machine Learning
+* [ ] Learn Deep Learning
+* [ ] Build AI applications
+* [ ] Develop strong System Design skills
+* [ ] Deploy AI projects
+* [ ] Build a professional portfolio
 
 ---
 
-# 🛠️ Technologies
+## 💡 How I Think
 
-The project is planned around technologies that work naturally with GitHub:
+I believe progress doesn't come from waiting until you're ready.
 
-| Technology        | Purpose                             |
-| ----------------- | ----------------------------------- |
-| 🐍 Python         | Chess logic and automation          |
-| ⚙️ GitHub Actions | Automating moves and README updates |
-| 📝 Markdown       | Interactive README interface        |
-| ♟️ SVG / Images   | Chess pieces and board              |
-| 🔗 GitHub Issues  | Player interaction                  |
-| 🌐 GitHub         | Hosting and collaboration           |
+It comes from **starting, making mistakes, learning, and trying again.**
+
+> **Don't just consume technology.
+> Understand it. Build it. Improve it.**
 
 ---
 
-# 🚀 Roadmap
+## 🛠️ Tech Stack
 
-This project is currently at the **idea / planning stage**.
+### Currently Exploring
 
-### Phase 1 — Planning
+<p align="left">
 
-* [x] Define the concept
-* [x] Design the README structure
-* [ ] Create the repository
-* [ ] Create the initial chess board
-* [ ] Add chess piece graphics
+<img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,vscode,linux" />
 
-### Phase 2 — Chess System
+</p>
 
-* [ ] Implement chess board representation
-* [ ] Implement legal movement
-* [ ] Implement captures
-* [ ] Implement check
-* [ ] Implement checkmate
-* [ ] Implement turn management
+### Future Focus
 
-### Phase 3 — GitHub Integration
+<p align="left">
 
-* [ ] Create GitHub Actions workflow
-* [ ] Create move-processing script
-* [ ] Connect GitHub Issues to chess moves
-* [ ] Automatically update the README
-* [ ] Record player usernames
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,fastapi,mongodb,postgres" />
 
-### Phase 4 — Statistics
-
-* [ ] Move history
-* [ ] Player leaderboard
-* [ ] Games played
-* [ ] Player statistics
-* [ ] Game status
-
-### Phase 5 — Improvements
-
-* [ ] Better board design
-* [ ] Mobile-friendly README
-* [ ] Improved automation
-* [ ] Multiple games
-* [ ] Friend challenges
-* [ ] More interactive features
+</p>
 
 ---
 
-# 💡 Why This Project?
+## 📊 GitHub
 
-Most GitHub repositories use their README to explain a project.
+<div align="center">
 
-This project explores a different idea:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadjaissabakir17-del\&show_icons=true\&hide_border=true\&theme=transparent)
 
-> **What if the README itself became part of the project?**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadjaissabakir17-del\&layout=compact\&hide_border=true\&theme=transparent)
 
-The goal isn't simply to build another chess game.
-
-The goal is to experiment with:
-
-**GitHub + Automation + Programming + Chess + Creativity**
-
-and turn a normally static README into something people can actually interact with.
+</div>
 
 ---
 
-# 📂 Planned Project Structure
+## 🔥 Contribution Journey
 
-The project may eventually have a structure similar to:
+Every commit represents something I learned.
 
-```text
-bakir-open-chess/
-│
-├── README.md
-│
-├── img/
-│   ├── white/
-│   ├── black/
-│   └── blank.png
-│
-├── chess/
-│   ├── board.py
-│   ├── moves.py
-│   └── game.py
-│
-├── .github/
-│   └── workflows/
-│       └── chess.yml
-│
-└── data/
-    └── game.json
-```
+Every project represents something I built.
 
-This structure is only a **planned architecture** and may change during development.
+Every mistake represents something I can improve.
+
+**The goal isn't to look experienced.**
+
+**The goal is to become experienced.**
 
 ---
 
-# 👨‍💻 About the Developer
+## 🌐 Connect
 
-## Bakir HadjAissa
+<div align="center">
 
-I'm **Bakir HadjAissa**, a young developer from 🇩🇿 Algeria interested in:
+### **Bakir HADJAISSA**
 
-* 🤖 Artificial Intelligence
-* 💻 Programming
-* 🧠 Computer Science
-* 🎨 Creative Digital Design
-* 🚀 Building projects
-* 📚 Learning new technologies
+🇩🇿 Algeria
 
-I'm currently building my skills step by step and experimenting with different ideas to turn concepts into real projects.
+**AI Engineer in Progress**
 
-### 🎯 Long-Term Goal
+[GitHub](https://github.com/hadjaissabakir17-del)
 
-> **Learn. Build. Improve. Repeat.**
-
-This chess project is one of my experiments in combining programming, automation, creativity, and GitHub.
-
----
-
-# 🌐 Find Me
-
-**GitHub:**
-[@hadjaissabakir17-del](https://github.com/hadjaissabakir17-del)
-
-🇩🇿 **Algeria**
-
----
-
-# 📊 Project Status
-
-```text
-Concept        ████████████████████ 100%
-Design         ███████░░░░░░░░░░░░░  35%
-Development    ░░░░░░░░░░░░░░░░░░░░   0%
-Automation     ░░░░░░░░░░░░░░░░░░░░   0%
-Release        ░░░░░░░░░░░░░░░░░░░░   0%
-```
-
-🚧 **Currently in development planning.**
-
----
-
-# ⭐ Support
-
-If you find the idea interesting, you can:
-
-⭐ Star the repository
-🐛 Report bugs
-💡 Suggest ideas
-🤝 Contribute
-📢 Share the project
-
-Every interaction helps the project grow.
-
----
-
-# 📜 License
-
-This project will be released under an open-source license once the initial implementation is completed.
+</div>
 
 ---
 
 <div align="center">
 
-### ♟️ Your move is coming...
+### `BUILD. LEARN. EVOLVE.`
 
-**Built with curiosity, code, and a little bit of chess.**
-
-🇩🇿 **Bakir HadjAissa**
+**Building my future, one project at a time.**
 
 </div>
